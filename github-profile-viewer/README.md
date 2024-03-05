@@ -1,7 +1,10 @@
-#Setup the react app without using Vite.
-I took help from two resources majorly:
+# Setting Up the React App without Using Vite
 
-1. https://blog.bitsrc.io/create-react-app-without-create-react-app-b0a5806a92
-2. https://github.com/machadop1407/react-app-from-scratch/blob/main/public/index.html
+I received assistance from two main resources:
 
-Ofc, this could be optimized but working as of now.
+1. [Creating a React App without using create-react-app](https://blog.bitsrc.io/create-react-app-without-create-react-app-b0a5806a92)
+2. [React App from Scratch](https://github.com/machadop1407/react-app-from-scratch/blob/main/public/index.html)
+
+Of course, this setup could be optimized, but it is functional as of now.
+
+Please note that this is the development version of the configuration. It generates a rather large file for serving, so it is definitely not suitable for production use.
